@@ -2,7 +2,7 @@
 
 In the above Taskfolder you can find all the necessary files regarding Task 5. In the Jupyter file 'task5_solutions.ipynb', I have implemented Decision tree classifier andrandom forest  analyzes the UCI Heart Disease dataset to predict cardiovascular disease. I have mainly used the scikit learn library in python for creating the decision tree classifier and random forests and evaluated the both.
 
-#### Decision Tree Implementation: \
+#### Decision Tree Implementation: 
 Trained an initial decision tree (max_depth=3) \
 Visualized the tree structure using Graphviz \
 Analyzed overfitting by testing depths (1-20): \
