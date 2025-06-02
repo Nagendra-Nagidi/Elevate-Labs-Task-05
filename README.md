@@ -7,7 +7,7 @@ Trained an initial decision tree (max_depth=3) \
 Visualized the tree structure using Graphviz \
 Analyzed overfitting by testing depths (1-20): \
 Identified optimal depth at 5 \
-Added regularization (min_samples_split=20, min_samples_leaf=10, ccp_alpha=0.01) \
+Added regularization (min_samples_split=20, min_samples_leaf=10, ccp_alpha=0.01) 
 
 #### Random forest model
 Trained an ensemble of 100 trees with matching constraints \
